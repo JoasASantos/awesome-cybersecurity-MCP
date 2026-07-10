@@ -32,6 +32,7 @@ A curated list of tools, servers, and resources related to **Modular Command Pla
 - [fr0gger/MCP_Security](https://github.com/fr0gger/MCP_Security)  
   Simple and extensible MCP base for building custom security automation tools.
 
+- [ASCIT31/Dark-Moon](https://github.com/ASCIT31/Dark-Moon) - Open-source (GPL-3.0) autonomous AI penetration-testing MCP host that orchestrates 80+ offensive tools through per-technology sub-agents (GraphQL, Spring, .NET, Node, PHP, Ruby, WordPress) plus Active Directory and Kubernetes, driven by a local 14B LLM with a Privacy Gateway and an evidence trail per finding.
 - [DMontgomery40/pentest-mcp](https://github.com/DMontgomery40/pentest-mcp)  
   Structured MCP platform supporting full-scope pentesting, including scanners and exploit tools.
 
