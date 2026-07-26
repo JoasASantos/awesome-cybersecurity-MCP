@@ -65,6 +65,9 @@ A curated list of tools, servers, and resources related to **Modular Command Pla
 - [awslabs/mcp](https://github.com/awslabs/mcp)  
   Official AWS project for modular pipeline management with plugin-based security modules.
 
+- [quantakrypto/pqc-tools](https://github.com/quantakrypto/pqc-tools)  
+  MCP server providing post-quantum cryptography (PQC) readiness tools — scans code and dependencies for quantum-vulnerable RSA/ECDSA/ECDH ("harvest now, decrypt later"), plans migration, and verifies fixes. Deterministic, offline, zero runtime deps; Apache-2.0, on npm and the official MCP registry.
+
 ---
 
 ## 📽️ Demos and Videos
