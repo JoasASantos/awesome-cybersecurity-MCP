@@ -1,8 +1,8 @@
-# 🧠 Awesome MCP - Modular Command Platforms for Cybersecurity & Reverse Engineering
+# 🧠 Awesome MCP - Model Context Protocol for Cybersecurity & Reverse Engineering
 
-A curated list of tools, servers, and resources related to **Modular Command Platforms (MCP)** focused on cybersecurity, reverse engineering, Shodan automation, GitHub Actions, OWASP ZAP, IDA Pro, and more.
+A curated list of tools, servers, and resources related to the **Model Context Protocol (MCP)**, focused on cybersecurity, reverse engineering, Shodan automation, GitHub Actions, OWASP ZAP, IDA Pro, and more.
 
-> **MCPs** (MCP Servers/Clients) are modular platforms that orchestrate tools for analysis, security testing, and automation. They are commonly used to streamline offensive security workflows, reverse engineering, and tool orchestration.
+> **MCP** is an open protocol for connecting AI applications to external tools and data sources. MCP servers expose tools, prompts, or resources; clients access them. See the [official protocol documentation](https://modelcontextprotocol.io/introduction). This list includes both MCP servers and security tools that inspect or constrain supported MCP interactions.
 
 ---
 
@@ -85,6 +85,9 @@ A curated list of tools, servers, and resources related to **Modular Command Pla
 
 - [open-webui/mcpo](https://github.com/open-webui/mcpo)  
   Web UI framework to interface with various MCP backends and orchestrate security modules.
+
+- [hashgraph-online/hol-guard](https://github.com/hashgraph-online/hol-guard)  
+  Open-source, local-first security controls for supported AI agent actions, including MCP tool calls. It is a security layer for agent integrations, not an MCP server or a guarantee of coverage for every client.
 
 ---
 
