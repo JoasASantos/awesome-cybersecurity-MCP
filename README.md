@@ -35,6 +35,9 @@ A curated list of tools, servers, and resources related to the **Model Context P
 - [DMontgomery40/pentest-mcp](https://github.com/DMontgomery40/pentest-mcp)  
   Structured MCP platform supporting full-scope pentesting, including scanners and exploit tools.
 
+- [bernik-bot/ichi-mcp](https://github.com/bernik-bot/ichi-mcp)  
+  Free, keyless MCP server for the Internet Cyber Health Index (ICHI) — exposes the current internet-wide threat band (NORMAL to CRITICAL), numeric score, recent critical-vulnerability advisories, and source-feed health with no API key required. Disclosure: maintained for ICHI's creator.
+
 ---
 
 ## 🔬 Reverse Engineering & IDA MCPs
@@ -67,6 +70,9 @@ A curated list of tools, servers, and resources related to the **Model Context P
 
 - [quantakrypto/pqc-tools](https://github.com/quantakrypto/pqc-tools)  
   MCP server providing post-quantum cryptography (PQC) readiness tools — scans code and dependencies for quantum-vulnerable RSA/ECDSA/ECDH ("harvest now, decrypt later"), plans migration, and verifies fixes. Deterministic, offline, zero runtime deps; Apache-2.0, on npm and the official MCP registry.
+
+- [bernik-bot/ichi-threat-level-action](https://github.com/bernik-bot/ichi-threat-level-action)  
+  GitHub Action that reads the ICHI internet-wide cyber threat band in CI/CD pipelines and optionally fails the job when the band meets or exceeds a configured threshold (e.g., HIGH or CRITICAL). Zero API keys needed; uses ICHI's public API. Disclosure: maintained for ICHI's creator.
 
 ---
 
