@@ -35,6 +35,9 @@ A curated list of tools, servers, and resources related to the **Model Context P
 - [DMontgomery40/pentest-mcp](https://github.com/DMontgomery40/pentest-mcp)  
   Structured MCP platform supporting full-scope pentesting, including scanners and exploit tools.
 
+- [emirmrkaljevic/iotaudit](https://github.com/emirmrkaljevic/iotaudit)  
+  Local MCP server and CLI for auditing smart-home devices on your own network: captures and analyzes traffic, port scans, default credential checks and UPnP mappings, with an A to F grade per device.
+
 ---
 
 ## 🔬 Reverse Engineering & IDA MCPs
