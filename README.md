@@ -20,7 +20,7 @@ A curated list of tools, servers, and resources related to the **Model Context P
 
 ## 🛠️ MCP Servers for Pentesting & Security
 
-- [vulnz/insomnia-mcp](https://github.com/vulnz/insomnia-mcp)
+- [CQR-Cybersecurity-LLC/insomnia-mcp](https://github.com/CQR-Cybersecurity-LLC/insomnia-mcp)
   All-in-one offensive security, multi-language SAST/taint, live secret validation, Web DAST, OSINT, 21,100+ 1-Day CVE verification, and 29-protocol network enumeration MCP server (160 tools via `https://mcp.insom.ai/mcp` or local CLI).
 - [zinja-coder/jadx-mcp-server](https://github.com/zinja-coder/jadx-mcp-server)  
   MCP server designed for static APK analysis using Jadx, enabling remote command execution.
